@@ -1,4 +1,3 @@
-### Hello there 👋
 
 ### Side Project Stack
 
