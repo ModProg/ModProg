@@ -7,7 +7,7 @@
 - [ ] Neovim Config Plugin in Rust ^^
 - [ ] Rewrite Neovim Config ^^
 - [ ] Sane Figglet unicode and toml based fogfont format
-
+- [ ] ![twitchctl](https://github.com/cafce25/twitchctl)
 
 
 <!--
