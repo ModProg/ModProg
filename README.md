@@ -8,7 +8,7 @@
 - [ ] Rewrite Neovim Config ^^
 - [ ] Sane Figglet unicode and toml based fogfont format
 - [ ] ![twitchctl](https://github.com/cafce25/twitchctl)
-
+- [ ] macro_rules like proc macro input parser
 
 <!--
 **ModProg/ModProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
