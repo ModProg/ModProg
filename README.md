@@ -3,12 +3,14 @@
 
 (so I maybe finish some of it)
 
-- [ ] Neovim Lua Rust API  <-- Currently working on
+- [x] Initial Neovim Lua API
 - [ ] Neovim Config Plugin in Rust ^^
 - [ ] Rewrite Neovim Config ^^
 - [ ] Sane Figglet unicode and toml based fogfont format
 - [ ] ![twitchctl](https://github.com/cafce25/twitchctl)
 - [ ] macro_rules like proc macro input parser
+- [ ] extend https://git.sr.ht/~ireas/merge-rs with `TryMerge`
+- [ ] Finish Neovim Lua API
 
 <!--
 **ModProg/ModProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
