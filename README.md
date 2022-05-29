@@ -11,6 +11,7 @@
 - [ ] macro_rules like proc macro input parser
 - [ ] extend https://git.sr.ht/~ireas/merge-rs with `TryMerge`
 - [ ] Finish Neovim Lua API
+- [ ] Implement secret store for ENV tokens
 
 <!--
 **ModProg/ModProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
