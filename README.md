@@ -3,8 +3,8 @@
 
 (so I maybe finish some of it)
 
-- [x] Initial Neovim Lua API ([ModProg/nvim-rust](https://github.com/ModProg/nvim-rust/)
-- [ ] Neovim Config Plugin in Rust ^^ ([ModProg/config.nvim](https://github.com/ModProg/config.nvim/)
+- [x] Initial Neovim Lua API ([ModProg/nvim-rust](https://github.com/ModProg/nvim-rust/))
+- [ ] Neovim Config Plugin in Rust ^^ ([ModProg/config.nvim](https://github.com/ModProg/config.nvim/))
 - [ ] Rewrite Neovim Config ^^
 - [ ] Sane Figglet unicode and toml based fogfont format
 - [ ] ![twitchctl](https://github.com/cafce25/twitchctl)
