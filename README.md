@@ -13,7 +13,8 @@
 - [ ] extend https://git.sr.ht/~ireas/merge-rs with `TryMerge`
 - [ ] Finish Neovim Lua API
 - [ ] Implement secret store for ENV tokens
-- [ ] add types to cargo-hatch ([dnaka91/cargo-hatch#1](https://github.com/dnaka91/cargo-hatch/issues/1))
+- [x] add types to cargo-hatch ([dnaka91/cargo-hatch#1](https://github.com/dnaka91/cargo-hatch/issues/1))
+- [ ] Remove panic from attribute derive via traitbound for AtteibuteName
 
 <!--
 **ModProg/ModProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
