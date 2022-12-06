@@ -17,6 +17,7 @@
 - [x] Remove panic from attribute derive via traitbound for AttrebuteName
 - [ ] Allow nvim-rust to use the api when using multithreading.
 - [ ] Procmacro that uses https://beta.openai.com/ to generate the code based on plain text input
+- [ ] Presentations based on something like asciidoc, that generate a single html file, viewable from any browser.
 <!--
 **ModProg/ModProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
