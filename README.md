@@ -3,8 +3,8 @@
 
 (so I maybe finish some of it)
 
-- [x] Initial Neovim Lua API ([ModProg/nvim-rust](https://github.com/ModProg/nvim-rust/))
-- [ ] Neovim Config Plugin in Rust ^^ ([ModProg/config.nvim](https://github.com/ModProg/config.nvim/))
+- [x] Initial Neovim Lua API ([ModProg/nvim-rust](https://github.com/ModProg/nvim-rust/)) (got replaced by [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi)
+- [x] Neovim Config Plugin in Rust ^^ ([ModProg/config.nvim](https://github.com/ModProg/config.nvim/))
 - [ ] Shada manipulator for nvim to remove the jumplist (or something that individually syncs the data I want to sync)
 - [ ] Rewrite Neovim Config ^^
 - [ ] Sane Figglet unicode and toml based fogfont format
@@ -16,6 +16,7 @@
 - [x] add types to cargo-hatch ([dnaka91/cargo-hatch#1](https://github.com/dnaka91/cargo-hatch/issues/1))
 - [x] Remove panic from attribute derive via traitbound for AttrebuteName
 - [ ] Allow nvim-rust to use the api when using multithreading.
+- [ ] Procmacro that uses https://beta.openai.com/ to generate the code based on plain text input
 <!--
 **ModProg/ModProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
