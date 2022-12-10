@@ -10,7 +10,7 @@
 - [ ] Sane Figglet unicode and toml based fogfont format
 - [ ] ![twitchctl](https://github.com/cafce25/twitchctl)
 - [ ] macro_rules like proc macro input parser
-- [ ] extend https://git.sr.ht/~ireas/merge-rs with `TryMerge` (https://lists.sr.ht/~ireas/public-inbox/%3C1148767953.846176.1670680875389%40office.mailbox.org%3E)
+- [ ] extend [~ireas/merge-rs](https://git.sr.ht/~ireas/merge-rs) with `TryMerge` ([issue](https://lists.sr.ht/~ireas/public-inbox/%3C1148767953.846176.1670680875389%40office.mailbox.org%3E))
 - [ ] Finish Neovim Lua API
 - [ ] Implement secret store for ENV tokens
 - [x] add types to cargo-hatch ([dnaka91/cargo-hatch#1](https://github.com/dnaka91/cargo-hatch/issues/1))
