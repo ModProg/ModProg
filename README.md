@@ -2,21 +2,12 @@
 ### Side Project Stack
 
 (so I maybe finish some of it)
-
-- [x] Initial Neovim Lua API ([ModProg/nvim-rust](https://github.com/ModProg/nvim-rust/)) (got replaced by [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi)
-- [x] Neovim Config Plugin in Rust ^^ ([ModProg/config.nvim](https://github.com/ModProg/config.nvim/))
-- [ ] Shada manipulator for nvim to remove the jumplist (or something that individually syncs the data I want to sync)
-- [ ] Rewrite Neovim Config ^^
 - [ ] Sane Figglet unicode and toml based fogfont format
 - [ ] ![twitchctl](https://github.com/cafce25/twitchctl)
 - [ ] macro_rules like proc macro input parser
-- [ ] extend [~ireas/merge-rs](https://git.sr.ht/~ireas/merge-rs) with `TryMerge` ([issue](https://lists.sr.ht/~ireas/public-inbox/%3C1148767953.846176.1670680875389%40office.mailbox.org%3E))
 - [ ] Implement secret store for ENV tokens
-- [x] add types to cargo-hatch ([dnaka91/cargo-hatch#1](https://github.com/dnaka91/cargo-hatch/issues/1))
-- [x] Remove panic from attribute derive via traitbound for AttrebuteName
-- [x] Procmacro that uses https://beta.openai.com/ to generate the code based on plain text input (already exists https://lib.rs/crates/gpt3_macro)
-- [ ] Presentations based on something like asciidoc, that generate a single html file, viewable from any browser. 
 - [ ] Email client
+- [ ] https://github.com/bitfireAT/icsx5/discussions/235
 <!--
 **ModProg/ModProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
